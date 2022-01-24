@@ -13,9 +13,9 @@
 
 - It simplifies process of building a react application for production (by providing following features)
 
-  1 File based routing
-  2 Pre-rendering
-  3 Api routes
-  4 Support for Css modules
-  5 Authentication
+  1 File based routing  
+  2 Pre-rendering  
+  3 Api routes  
+  4 Support for Css modules  
+  5 Authentication  
   6 Dev and Prod build system

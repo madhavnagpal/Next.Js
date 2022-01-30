@@ -11,7 +11,7 @@
 1 **Page-based routing mechanism** - Pages are associated with a route based on their file name.  
 2 **Nested routes** - Nested folder structure, files will be automatically routed in the same way in the URL.  
 3 **Dynamic routes** - Can be created by adding square brackets to a page name.  
-4 **Catch all routes** - Add three dots inside square brackets to create a catch all route. Helpful when you want different URL's for the same page layout or even when you're working with pages with some of the route parameters are optional.
+4 **Catch all routes** - Add three dots inside square brackets to create a catch all route. Helpful when you want different URL's for the same page layout or even when you're working with pages with some of the route parameters are optional.  
 5 **Optional Catch all routes** - Catch all routes can be made optional by including the parameter in double brackets ([[...params]]).The main difference between catch all and optional catch all routes is that with optional, the route without the parameter is also matched (/post in the example above).  
 6 **Link** component to navigate on click of an element.  
 7 useRouter hook's **router.push** method to navigate progammatically.  
